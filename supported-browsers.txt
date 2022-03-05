@@ -1,2 +1,4 @@
 Chrome
 EnableIPyWidgets
+IE
+Mozilaa
